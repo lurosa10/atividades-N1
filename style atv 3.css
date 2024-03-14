@@ -1,0 +1,30 @@
+*{
+margin: 0%;
+padding: 0%;
+}
+
+.cabecalho{
+background-color: black;
+color: white;
+width: 100%;
+margin: 0px;
+padding: 10px;
+height: 40px;
+}
+
+.container{
+background-color: rgb(53, 53, 250);
+width: 100%;
+ padding-top: 0px;
+min-height: 500px;
+}
+
+.footer {
+    height: 40px;
+    margin: 0px;
+    background-color: red;
+    color: black;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
